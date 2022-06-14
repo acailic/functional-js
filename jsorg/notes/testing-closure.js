@@ -1,6 +1,4 @@
-function Hello(name) {
-
-
+function Hello(name) { // js case incensitive
     var id = Math.random();
     function speak(lastName){
         console.log("Hello " + name);
